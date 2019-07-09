@@ -1,0 +1,19 @@
+\t (00:00:01) allegro 17.2 S038 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Tue Jul 09 12:40:13 2019
+\t (00:00:01)         Host=USER-PC User=user Pid=4752 CPUs=4
+\t (00:00:01) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:01) Starting new design...
+\i (00:00:03) trapsize 29310
+\i (00:00:03) generaledit 
+\i (00:00:04) trapsize 2555
+\i (00:00:04) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged unnamed
+\i (00:00:05) pick grid 6182.5 9437.9
+\t (00:00:05) last pick:  6200.0 9400.0
+\i (00:00:06) open 
+\i (00:00:08) fillin "HAHAHA.brd"
+\t (00:00:08) Opening existing design...
+\i (00:00:11) fillin yes 
+\i (00:00:11) trapsize 25547
+\t (00:00:11)     Journal end - Tue Jul 09 12:40:23 2019

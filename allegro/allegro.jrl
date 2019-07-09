@@ -1,0 +1,763 @@
+\t (00:00:11) allegro 17.2 S038 Windows SPB 64-bit Edition
+\t (00:00:11)     Journal start - Tue Jul 09 12:40:23 2019
+\t (00:00:11)         Host=USER-PC User=user Pid=4752 CPUs=4
+\t (00:00:11) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:11) 
+\d (00:00:11) Design opened: C:/Users/user/Desktop/workspace/kkk/allegro/HAHAHA.brd
+\i (00:00:11) generaledit 
+\i (00:00:12) pick grid 12569.34 8364.96
+\t (00:00:12) last pick:  12600.00 8400.00
+\i (00:00:15) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Setup
+\i (00:00:15) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Setup
+\i (00:00:16) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Setup
+\i (00:00:16) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Setup
+\i (00:00:16) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation"
+\i (00:00:16) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation"
+\i (00:00:17) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation"
+\i (00:00:17) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation"
+\i (00:00:18) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Placement
+\i (00:00:18) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Placement
+\i (00:00:19) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Placement
+\i (00:00:19) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Placement
+\i (00:00:19) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Constraints
+\i (00:00:19) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Constraints
+\i (00:00:20) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Constraints
+\i (00:00:20) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Constraints
+\i (00:00:20) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Interconnect
+\i (00:00:20) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Interconnect
+\i (00:00:21) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Interconnect
+\i (00:00:21) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Interconnect
+\i (00:00:23) trapsize 15695
+\i (00:00:24) pick grid 5430.49 10044.84
+\t (00:00:24) last pick:  5400.00 10000.00
+\i (00:00:24) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "Start Page"
+\i (00:00:39) trapsize 16381
+\i (00:00:39) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged HAHAHA
+\i (00:00:40) pick grid 9861.15 10188.77
+\t (00:00:40) last pick:  9900.00 10200.00
+\i (00:01:30) board outline 
+   (00:01:30) Loading floor.cxt 
+   (00:01:30) Loading fputil.cxt 
+\i (00:01:48) setwindow form.fpbdoutline
+\i (00:01:48) FORM fpbdoutline cancel  
+\i (00:01:48) setwindow pcb
+\i (00:01:48) generaledit 
+\i (00:01:48) pick grid 3898.60 11663.03
+\t (00:01:48) last pick:  3900.00 11700.00
+\i (00:01:52) prmed 
+\i (00:01:53) setwindow form.prmedit
+\i (00:01:53) FORM prmedit design  
+\i (00:01:55) FORM prmedit units Millimeter 
+   (00:01:55) Accuracy or unit changes can cause design round-off issues. DRCs and physical changes should be checked.
+\i (00:01:57) fillin confirm
+\e (00:01:57) Change may cause round-off; run dbcheck.
+\i (00:01:59) FORM prmedit size A4 
+\i (00:02:01) FORM prmedit accuracy 3 
+   (00:02:01) Accuracy or unit changes can cause design round-off issues. DRCs and physical changes should be checked.
+\i (00:02:03) fillin confirm
+\e (00:02:03) Change may cause round-off; run dbcheck.
+\i (00:02:06) FORM prmedit x -50.000 
+\i (00:02:10) FORM prmedit y -50.000 
+\i (00:02:36) FORM prmedit done  
+\w (00:02:36) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:02:36) setwindow pcb
+\i (00:02:36) trapsize 2318
+\t (00:02:36) Performing DRC...
+\t (00:02:36) Multithreaded DRC update (4 threads).
+\t (00:02:37) No DRC errors detected.
+\i (00:02:37) generaledit 
+\i (00:02:38) zoom in 1 
+\i (00:02:38) setwindow pcb
+\i (00:02:38) zoom in -1.788 -2.252
+\i (00:02:38) trapsize 1159
+\i (00:02:38) zoom in 1 
+\i (00:02:38) setwindow pcb
+\i (00:02:38) zoom in -1.788 -2.252
+\i (00:02:38) trapsize 579
+\i (00:02:38) zoom in 1 
+\i (00:02:38) setwindow pcb
+\i (00:02:38) zoom in -1.672 -2.252
+\i (00:02:38) trapsize 290
+\i (00:02:38) zoom in 1 
+\i (00:02:38) setwindow pcb
+\i (00:02:38) zoom in -1.672 -2.251
+\i (00:02:38) trapsize 145
+\i (00:02:38) zoom in 1 
+\i (00:02:38) setwindow pcb
+\i (00:02:38) zoom in -1.672 -2.251
+\i (00:02:38) trapsize 72
+\i (00:02:43) pick grid 2.790 -0.426
+\t (00:02:43) last pick:  2.540 0.000
+\i (00:02:43) zoom out 1 
+\i (00:02:43) setwindow pcb
+\i (00:02:43) zoom out 2.877 -0.411
+\i (00:02:43) trapsize 145
+\i (00:02:43) zoom out 1 
+\i (00:02:43) setwindow pcb
+\i (00:02:43) zoom out 2.877 -0.411
+\i (00:02:43) trapsize 290
+\i (00:02:43) zoom out 1 
+\i (00:02:43) setwindow pcb
+\i (00:02:43) zoom out 2.877 -0.411
+\i (00:02:43) trapsize 579
+\i (00:02:43) zoom out 1 
+\i (00:02:44) setwindow pcb
+\i (00:02:44) zoom out 2.877 -0.411
+\i (00:02:44) trapsize 1159
+\i (00:02:44) zoom out 1 
+\i (00:02:44) setwindow pcb
+\i (00:02:44) zoom out 47.119 3.311
+\i (00:02:44) trapsize 2318
+\i (00:02:44) zoom out 1 
+\i (00:02:44) setwindow pcb
+\i (00:02:44) zoom out 144.238 56.622
+\i (00:02:44) trapsize 2318
+\i (00:02:44) zoom out 1 
+\i (00:02:44) setwindow pcb
+\i (00:02:44) zoom out 144.238 56.622
+\i (00:02:44) trapsize 2318
+\i (00:02:45) zoom out 1 
+\i (00:02:45) setwindow pcb
+\i (00:02:45) zoom out 15.364 11.192
+\i (00:02:45) trapsize 2318
+\i (00:02:45) zoom out 1 
+\i (00:02:45) setwindow pcb
+\i (00:02:45) zoom out 15.364 11.192
+\i (00:02:45) trapsize 2318
+\i (00:02:45) zoom out 1 
+\i (00:02:45) setwindow pcb
+\i (00:02:45) zoom out 15.364 11.192
+\i (00:02:45) trapsize 2318
+\i (00:02:45) zoom out 1 
+\i (00:02:45) setwindow pcb
+\i (00:02:45) zoom out 15.364 11.192
+\i (00:02:45) trapsize 2318
+\i (00:02:48) board outline 
+\i (00:02:52) setwindow form.fpbdoutline
+\i (00:02:52) FORM fpbdoutline fpboclearance 2 
+\i (00:02:58) FORM fpbdoutline fpboplacerect YES 
+\i (00:03:02) FORM fpbdoutline fpboplacewdt 50 
+\i (00:03:05) FORM fpbdoutline fpboplacehgt 50 
+\i (00:03:09) setwindow pcb
+\i (00:03:09) zoom in 1 
+\i (00:03:09) setwindow pcb
+\i (00:03:09) zoom in -3.642 -7.815
+\i (00:03:09) trapsize 1159
+\i (00:03:09) zoom in 1 
+\i (00:03:09) setwindow pcb
+\i (00:03:09) zoom in -3.642 -7.814
+\i (00:03:09) trapsize 579
+\i (00:03:09) zoom in 1 
+\i (00:03:09) setwindow pcb
+\i (00:03:09) zoom in -3.642 -7.814
+\i (00:03:09) trapsize 290
+\i (00:03:09) zoom in 1 
+\i (00:03:09) setwindow pcb
+\i (00:03:09) zoom in -3.641 -7.814
+\i (00:03:09) trapsize 145
+\i (00:03:09) zoom in 1 
+\i (00:03:09) setwindow pcb
+\i (00:03:09) zoom in -3.641 -7.813
+\i (00:03:09) trapsize 72
+\i (00:03:10) zoom out 1 
+\i (00:03:10) setwindow pcb
+\i (00:03:10) zoom out -0.975 -7.277
+\i (00:03:10) trapsize 145
+\i (00:03:10) zoom out 1 
+\i (00:03:10) setwindow pcb
+\i (00:03:10) zoom out -0.975 -7.276
+\i (00:03:10) trapsize 290
+\i (00:03:12) pick grid 0.185 -1.250
+\t (00:03:12) last pick:  0.000 0.000
+\i (00:03:13) setwindow form.fpbdoutline
+\i (00:03:13) FORM fpbdoutline done  
+\i (00:03:13) setwindow pcb
+\i (00:03:13) generaledit 
+\i (00:03:14) pick grid -7.928 -0.439
+\t (00:03:14) last pick:  -7.620 0.000
+\i (00:03:14) zoom out 1 
+\i (00:03:14) setwindow pcb
+\i (00:03:14) zoom out -7.464 -0.555
+\i (00:03:14) trapsize 579
+\i (00:03:14) zoom out 1 
+\i (00:03:14) setwindow pcb
+\i (00:03:14) zoom out -7.348 -0.671
+\i (00:03:15) trapsize 1159
+\i (00:03:15) zoom out 1 
+\i (00:03:15) setwindow pcb
+\i (00:03:15) zoom out -7.349 6.324
+\i (00:03:15) trapsize 2318
+\i (00:03:16) zoom in 1 
+\i (00:03:16) setwindow pcb
+\i (00:03:16) zoom in 0.530 0.066
+\i (00:03:16) trapsize 1159
+\i (00:03:30) pick grid 30.894 61.953
+\t (00:03:30) last pick:  30.480 60.960
+\i (00:03:33) xsection 
+\i (00:03:34) QtSignal CCMQtXSectionDlg m_dialogsTab currentChanged Info
+\i (00:03:44) QtSignal CCMQtXSectionDlg m_CancelBtn clicked
+\i (00:03:44) generaledit 
+\i (00:03:50) cmgr 
+\i (00:03:51) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (00:03:51) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (00:03:51) generaledit 
+\i (00:03:52) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
+\i (00:03:52) QtSignal Routing
+\i (00:03:52) QtSignal m_domainSelector WS_Electrical itemClicked "Electrical Constraint Set" Routing
+\i (00:03:53) QtSignal m_domainSelector WS_Electrical itemSelectionChanged Net Routing
+\i (00:03:53) QtSignal m_domainSelector WS_Electrical itemClicked Net Routing
+\i (00:03:56) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Physical
+\i (00:03:57) QtSignal m_domainSelector WS_Physical itemSelectionChanged "Physical Constraint Set" +
+\i (00:03:57) QtSignal "All Layers"
+\i (00:03:57) QtSignal m_domainSelector WS_Physical itemClicked "Physical Constraint Set" "All Layers"
+\i (00:03:58) QtSignal m_domainSelector WS_Physical itemSelectionChanged Net "All Layers"
+\i (00:03:58) QtSignal m_domainSelector WS_Physical itemClicked Net "All Layers"
+\i (00:04:23) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Spacing
+\i (00:04:25) QtSignal m_domainSelector WS_Spacing itemSelectionChanged Net "All Layers"
+\i (00:04:25) QtSignal m_domainSelector WS_Spacing itemClicked Net "All Layers"
+\i (00:04:33) setwindow cmgr
+\i (00:04:33) cm close ( frame ( kConsmgr workbook 53:Electrical "1:Electrical Constraint Set" 7:Routing ) )
+\i (00:04:33) cm close ( frame ( kConsmgr workbook 53:Electrical 66:Net 25:Routing ) )
+\i (00:04:33) cm close ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:04:33) cm close ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:04:33) cm close ( frame ( kConsmgr workbook 78:Spacing 94:Net "95:All Layers" ) )
+\i (00:04:33) cm exit
+\i (00:04:33) setwindow pcb
+\i (00:04:33) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
+\i (00:04:33) QtSignal m_domainSelector WS_Physical itemSelectionChanged
+\i (00:04:33) QtSignal m_domainSelector WS_Spacing itemSelectionChanged
+\i (00:04:34) pick grid 18.378 18.841
+\t (00:04:34) last pick:  17.780 17.780
+\i (00:04:34) prepopup 18.378 28.344
+\i (00:04:35) pick grid 15.828 64.040
+\t (00:04:35) last pick:  15.240 63.500
+\i (00:04:40) done 
+\i (00:04:40) place manual 
+\i (00:04:40) FORM plc_manual placement_list 
+\i (00:04:40) FORM plc_manual categories Components by refdes 
+\i (00:04:40) trapsize 1159
+\i (00:04:44) setwindow form.plc_manual
+\i (00:04:44) FORM plc_manual cancel  
+\i (00:04:44) setwindow pcb
+\i (00:04:44) generaledit 
+\i (00:04:46) pick grid 66.358 41.093
+\t (00:04:46) last pick:  66.040 40.640
+\i (00:04:46) trapsize 1930
+\i (00:05:20) done 
+\i (00:05:20) place manual 
+\i (00:05:20) FORM plc_manual placement_list 
+\i (00:05:20) FORM plc_manual categories Components by refdes 
+\i (00:05:20) trapsize 1930
+\i (00:05:22) setwindow form.plc_manual
+\i (00:05:22) FORM plc_manual hide  
+\i (00:05:25) setwindow pcb
+\i (00:05:25) refdes J1 
+\w (00:05:25) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:05:25) Placing J1 / CON2_JUMPER2_CON2 / JUMPER2 on Top.
+\i (00:05:25) xname_flush 
+\i (00:05:27) pick grid 8.067 37.165
+\t (00:05:27) last pick:  7.620 38.100
+\i (00:05:28) refdes R1 
+\w (00:05:28) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:05:28) Placing R1 / R_RES400_100 / RES400 on Top.
+\i (00:05:28) xname_flush 
+\i (00:05:29) pick grid 14.242 20.185
+\t (00:05:29) last pick:  15.240 20.320
+\i (00:05:30) refdes L1 
+\w (00:05:30) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:05:30) Placing L1 / INDUCTOR_SMDRES_220N / SMDRES on Top.
+\i (00:05:31) xname_flush 
+\i (00:05:32) pick grid 28.521 32.534
+\t (00:05:32) last pick:  27.940 33.020
+\i (00:05:33) refdes R2 
+\t (00:05:33) Placing R2 / R_RES400_100 / RES400 on Top.
+\i (00:05:33) xname_flush 
+\i (00:05:34) pick grid 35.081 14.010
+\t (00:05:34) last pick:  35.560 15.240
+\i (00:05:36) refdes C1 
+\w (00:05:36) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:05:36) Placing C1 / CAP NP_CAP196_4.7N / CAP196 on Top.
+\i (00:05:36) xname_flush 
+\i (00:05:37) pick grid 26.977 7.835
+\t (00:05:37) last pick:  27.940 7.620
+\i (00:05:38) zoom in 1 
+\i (00:05:38) setwindow pcb
+\i (00:05:38) zoom in -3.510 -1.426
+\i (00:05:38) trapsize 965
+\i (00:05:59) pick grid 22.540 40.060
+\t (00:05:59) last pick:  22.860 40.640
+\i (00:05:59) pick grid 25.820 61.671
+\t (00:05:59) last pick:  25.400 60.960
+\i (00:06:01) add connect 
+\w (00:06:02) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:06:02) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:06:02) Pick first element.
+\i (00:06:03) pick grid 10.383 38.709
+\t (00:06:03) last pick:  10.160 38.735
+\t (00:06:03) last pick:  10.160 38.100
+\t (00:06:03) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:06:03) last pick:  10.160 38.100
+\i (00:06:04) mouse_pos 17.137 32.535
+\i (00:06:04) pick grid 15.400 30.605
+\t (00:06:04) last pick:  15.240 30.480
+\t (00:06:04) No DRC errors detected.
+\t (00:06:04) Pick first element.
+\i (00:06:05) pick grid 8.261 38.709
+\t (00:06:05) last pick:  8.255 38.735
+\t (00:06:05) Pick first element.
+\t (00:06:05) last pick:  7.620 38.100
+\t (00:06:05) Target Symbol Pin is defined on TOP.
+\t (00:06:05) last pick:  7.620 38.100
+\i (00:06:07) pick grid 7.875 45.077
+\t (00:06:07) last pick:  7.620 45.085
+\t (00:06:07) No DRC errors detected.
+\i (00:06:08) mouse_pos 24.855 34.464
+\i (00:06:08) pick grid 25.241 33.113
+\t (00:06:08) last pick:  25.400 33.020
+\t (00:06:08) No DRC errors detected.
+\t (00:06:08) Pick first element.
+\i (00:06:09) zoom in 1 
+\i (00:06:09) setwindow pcb
+\i (00:06:09) zoom in 17.330 23.852
+\i (00:06:09) trapsize 482
+\i (00:06:11) pick grid 15.786 29.640
+\t (00:06:11) last pick:  15.875 29.845
+\t (00:06:11) Pick first element.
+\t (00:06:11) last pick:  15.240 30.480
+\t (00:06:11) Target Symbol Pin is defined on TOP.
+\t (00:06:11) last pick:  15.240 30.480
+\i (00:06:11) mouse_pos 30.451 31.474
+\i (00:06:12) pick grid 29.486 32.824
+\t (00:06:12) last pick:  29.210 33.020
+\t (00:06:12) No DRC errors detected.
+\t (00:06:12) Pick first element.
+\i (00:06:13) pick grid 15.593 20.282
+\t (00:06:13) last pick:  15.875 20.320
+\t (00:06:13) Pick first element.
+\t (00:06:13) last pick:  15.240 20.320
+\t (00:06:13) Target Symbol Pin is defined on TOP.
+\t (00:06:13) last pick:  15.240 20.320
+\i (00:06:15) mouse_pos 6.621 36.587
+\i (00:06:15) pick grid 8.164 37.841
+\t (00:06:15) last pick:  8.255 38.100
+\t (00:06:15) No DRC errors detected.
+\t (00:06:15) Pick first element.
+\i (00:06:19) pick grid 27.846 10.441
+\t (00:06:19) last pick:  27.940 10.160
+\t (00:06:19) Pick first element.
+\t (00:06:19) Target Symbol Pin is defined on TOP.
+\t (00:06:19) last pick:  27.940 10.160
+\i (00:06:20) mouse_pos 29.776 30.219
+\i (00:06:20) mouse_pos 29.486 30.509
+\i (00:06:20) pick grid 29.486 30.509
+\t (00:06:20) last pick:  29.210 30.480
+\t (00:06:20) No DRC errors detected.
+\t (00:06:20) Pick first element.
+\i (00:06:22) pick grid 15.014 20.282
+\t (00:06:22) last pick:  15.240 20.320
+\t (00:06:22) Pick first element.
+\t (00:06:22) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:06:22) last pick:  15.240 20.320
+\i (00:06:24) roam start
+\i (00:06:24) roam y 48
+\i (00:06:24) roam y 48
+\i (00:06:24) roam x 16
+\i (00:06:24) roam y 16
+\i (00:06:25) roam end
+\i (00:06:27) pick grid 15.412 3.931
+\t (00:06:27) last pick:  15.240 3.810
+\t (00:06:27) No DRC errors detected.
+\i (00:06:28) mouse_pos 35.769 13.675
+\i (00:06:28) pick grid 35.769 14.929
+\t (00:06:28) last pick:  35.560 15.240
+\t (00:06:28) No DRC errors detected.
+\t (00:06:28) Pick first element.
+\i (00:06:29) pick grid 27.761 7.790
+\t (00:06:29) last pick:  27.940 7.620
+\t (00:06:29) Pick first element.
+\t (00:06:29) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:06:29) last pick:  27.940 7.620
+\i (00:06:31) pick grid 32.489 25.156
+\t (00:06:31) last pick:  32.385 25.400
+\t (00:06:31) No DRC errors detected.
+\i (00:06:31) mouse_pos 33.454 25.638
+\i (00:06:32) pick grid 35.962 25.445
+\t (00:06:32) last pick:  36.195 25.400
+\t (00:06:32) No DRC errors detected.
+\t (00:06:32) Pick first element.
+\i (00:06:33) zoom out 1 
+\i (00:06:33) setwindow pcb
+\i (00:06:33) zoom out 18.982 18.306
+\i (00:06:33) trapsize 965
+\i (00:06:34) zoom in 1 
+\i (00:06:34) setwindow pcb
+\i (00:06:34) zoom in 13.193 26.217
+\i (00:06:34) trapsize 482
+\i (00:06:35) zoom out 1 
+\i (00:06:35) setwindow pcb
+\i (00:06:35) zoom out 20.622 21.297
+\i (00:06:35) trapsize 965
+\i (00:06:37) trapsize 579
+\i (00:06:39) roam start
+\i (00:06:39) roam y -112
+\i (00:06:39) roam y -80
+\i (00:06:39) roam x 16
+\i (00:06:39) roam y -32
+\i (00:06:39) roam x 48
+\i (00:06:40) roam y 16
+\i (00:06:40) roam end
+\i (00:06:50) pick grid 22.434 28.808
+\t (00:06:50) last pick:  22.225 28.575
+\t (00:06:50) Pick first element.
+\t (00:06:50) last pick:  22.225 28.575
+\i (00:06:51) mouse_pos 22.202 29.851
+\i (00:06:51) mouse_pos 21.506 31.706
+\i (00:06:51) pick grid 17.914 37.964
+\t (00:06:51) last pick:  17.780 38.100
+\t (00:06:51) No DRC errors detected.
+\i (00:06:52) prepopup 17.914 38.080
+\i (00:06:52) oops 
+\t (00:06:52) last pick:  22.225 28.575
+\i (00:06:53) prepopup 17.914 38.543
+\i (00:06:53) oops 
+\t (00:06:53) last pick:  22.225 28.575
+\t (00:06:53) Pick first element.
+\i (01:29:37) pick grid 42.252 12.467
+\t (01:29:37) last pick:  42.545 12.700
+\t (01:29:37) last pick:  42.545 12.700
+\i (01:29:38) prepopup 42.599 35.182
+\i (01:29:39) oops 
+\t (01:29:39) last pick:  42.545 12.700
+\t (01:29:39) Pick first element.
+\i (01:37:45) pick grid 41.093 34.255
+\t (01:37:45) last pick:  41.275 34.290
+\t (01:37:45) last pick:  41.275 34.290
+\i (01:37:45) prepopup 40.861 42.947
+\i (01:37:46) prepopup 36.573 44.570
+\i (01:37:47) cancel 
+\i (01:37:47) generaledit 
+\i (01:37:47) pick grid 40.629 37.153
+\t (01:37:47) last pick:  40.640 37.465
+\i (01:37:49) pick grid 42.947 44.222
+\t (01:37:49) last pick:  43.180 44.450
+\i (01:40:43) zoom out 1 
+\i (01:40:43) setwindow pcb
+\i (01:40:43) zoom out 16.871 34.371
+\i (01:40:43) trapsize 1159
+\i (01:40:44) zoom in 1 
+\i (01:40:44) setwindow pcb
+\i (01:40:44) zoom in 4.818 45.497
+\i (01:40:44) trapsize 579
+\i (01:41:38) pick grid -4.453 51.060
+\t (01:41:38) last pick:  -4.445 50.800
+\i (01:41:39) zoom out 1 
+\i (01:41:39) setwindow pcb
+\i (01:41:39) zoom out -0.397 47.467
+\i (01:41:39) trapsize 1159
+\i (01:41:40) roam start
+\i (01:41:40) roam x -16
+\i (01:41:40) roam y -64
+\i (01:41:40) roam x -16
+\i (01:41:40) roam y -16
+\i (01:41:40) roam end
+\i (01:41:41) pick grid -14.305 69.602
+\t (01:41:41) last pick:  -14.605 69.850
+\i (01:41:42) zoom in 1 
+\i (01:41:42) setwindow pcb
+\i (01:41:42) zoom in 18.377 21.159
+\i (01:41:42) trapsize 579
+\i (01:41:43) zoom out 1 
+\i (01:41:43) setwindow pcb
+\i (01:41:43) zoom out 18.377 21.159
+\i (01:41:43) trapsize 1159
+\i (01:41:52) pick grid 14.437 78.874
+\t (01:41:52) last pick:  14.605 78.740
+\i (01:42:27) shape add rect 
+\i (01:42:36) setwindow form.mini
+\i (01:42:36) FORM mini dyns_netname_list  
+\i (01:42:38) fillin "Gnd"
+\t (01:42:38) Assigning selected shape to net: GND
+\i (01:42:39) setwindow pcb
+\i (01:42:39) pick grid -3.875 57.317
+\t (01:42:39) last pick:  -3.810 57.150
+\i (01:42:40) pick grid 56.158 -5.265
+\t (01:42:40) last pick:  55.880 -5.080
+\i (01:42:47) zoom in 1 
+\i (01:42:47) setwindow pcb
+\i (01:42:47) zoom in 6.324 19.304
+\i (01:42:47) trapsize 579
+\i (01:42:47) zoom in 1 
+\i (01:42:47) setwindow pcb
+\i (01:42:47) zoom in 6.325 19.305
+\i (01:42:47) trapsize 290
+\i (01:42:47) zoom in 1 
+\i (01:42:47) setwindow pcb
+\i (01:42:47) zoom in 6.325 19.305
+\i (01:42:47) trapsize 145
+\i (01:42:47) zoom in 1 
+\i (01:42:47) setwindow pcb
+\i (01:42:47) zoom in 6.325 19.306
+\i (01:42:47) trapsize 72
+\i (01:42:47) zoom in 1 
+\i (01:42:47) setwindow pcb
+\i (01:42:47) zoom in 6.326 19.306
+\i (01:42:47) trapsize 36
+\i (01:42:47) zoom in 1 
+\i (01:42:47) setwindow pcb
+\i (01:42:47) zoom in 6.326 19.306
+\i (01:42:47) trapsize 18
+\i (01:42:47) zoom in 1 
+\i (01:42:47) setwindow pcb
+\i (01:42:47) zoom in 6.326 19.306
+\i (01:42:47) trapsize 9
+\i (01:42:47) zoom in 1 
+\i (01:42:47) setwindow pcb
+\i (01:42:47) zoom in 6.326 19.306
+\i (01:42:47) trapsize 5
+\i (01:42:48) zoom out 1 
+\i (01:42:48) setwindow pcb
+\i (01:42:48) zoom out 6.326 19.306
+\i (01:42:48) trapsize 9
+\i (01:42:48) zoom out 1 
+\i (01:42:48) setwindow pcb
+\i (01:42:48) zoom out 6.326 19.307
+\i (01:42:48) trapsize 18
+\i (01:42:48) zoom out 1 
+\i (01:42:48) setwindow pcb
+\i (01:42:48) zoom out 6.326 19.307
+\i (01:42:48) trapsize 36
+\i (01:42:48) zoom out 1 
+\i (01:42:48) setwindow pcb
+\i (01:42:48) zoom out 6.326 19.307
+\i (01:42:48) trapsize 72
+\i (01:42:48) roam start
+\i (01:42:48) roam x 64
+\i (01:42:48) roam y -48
+\i (01:42:48) roam x 16
+\i (01:42:49) roam end
+\i (01:42:49) zoom in 1 
+\i (01:42:49) setwindow pcb
+\i (01:42:49) zoom in 7.918 20.130
+\i (01:42:49) trapsize 36
+\i (01:42:49) zoom in 1 
+\i (01:42:49) setwindow pcb
+\i (01:42:49) zoom in 7.918 20.130
+\i (01:42:49) trapsize 18
+\i (01:42:49) zoom in 1 
+\i (01:42:49) setwindow pcb
+\i (01:42:49) zoom in 7.918 20.130
+\i (01:42:49) trapsize 9
+\i (01:42:49) zoom in 1 
+\i (01:42:49) setwindow pcb
+\i (01:42:49) zoom in 7.918 20.130
+\i (01:42:49) trapsize 5
+\i (01:42:49) zoom out 1 
+\i (01:42:49) setwindow pcb
+\i (01:42:49) zoom out 7.918 20.131
+\i (01:42:49) trapsize 9
+\i (01:42:49) zoom out 1 
+\i (01:42:50) setwindow pcb
+\i (01:42:50) zoom out 7.918 20.130
+\i (01:42:50) trapsize 18
+\i (01:42:50) zoom out 1 
+\i (01:42:50) setwindow pcb
+\i (01:42:50) zoom out 7.919 20.130
+\i (01:42:50) trapsize 36
+\i (01:43:10) zoom out 1 
+\i (01:43:10) setwindow pcb
+\i (01:43:10) zoom out 7.462 20.711
+\i (01:43:10) trapsize 72
+\i (01:43:10) zoom out 1 
+\i (01:43:10) setwindow pcb
+\i (01:43:10) zoom out 7.462 20.710
+\i (01:43:10) trapsize 145
+\i (01:43:10) zoom out 1 
+\i (01:43:10) setwindow pcb
+\i (01:43:10) zoom out 7.461 20.710
+\i (01:43:10) trapsize 290
+\i (01:43:11) zoom out 1 
+\i (01:43:11) setwindow pcb
+\i (01:43:11) zoom out 7.461 20.711
+\i (01:43:11) trapsize 579
+\i (01:43:35) zoom out 1 
+\i (01:43:35) setwindow pcb
+\i (01:43:35) zoom out 42.809 15.147
+\i (01:43:35) trapsize 1159
+\i (01:43:45) pick grid 78.179 52.002
+\t (01:43:45) last pick:  78.105 52.070
+\i (01:43:46) prepopup 55.232 60.810
+\i (01:43:47) oops 
+\t (01:43:47) last pick:  55.880 -5.080
+\i (01:43:47) prepopup 54.536 60.810
+\i (01:43:48) done 
+\i (01:43:48) generaledit 
+\i (01:43:48) pick grid 49.901 57.796
+\t (01:43:48) last pick:  50.165 57.785
+\i (01:43:50) pick grid -3.179 55.710
+\t (01:43:50) last pick:  -3.175 55.880
+\i (01:44:07) done 
+\i (01:44:07) place manual 
+\i (01:44:07) setwindow form.plc_manual 
+\i (01:44:07) setwindow form.plc_manual
+\i (01:44:07) FORM plc_manual advanced_settings 
+\i (01:44:07) FORM plc_manual advanced_settings  
+\i (01:44:07) FORM plc_manual library YES 
+\i (01:44:07) FORM plc_manual library YES 
+\i (01:44:07) FORM plc_manual placement_list 
+\i (01:44:07) FORM plc_manual placement_list  
+\i (01:44:07) FORM plc_manual categories Mechanical symbols 
+\i (01:44:07) FORM plc_manual categories Mechanical symbols 
+\i (01:44:07) trapsize 1159
+\i (01:44:11) FORM plc_manual tree  MTG125 'Mechanical symbols' 
+\w (01:44:12) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (01:44:12) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (01:45:00) FORM plc_manual tree 'MULTISEL YES' MTG125 'Mechanical symbols' 
+\i (01:45:05) setwindow pcb
+\i (01:45:05) pick grid 5.397 44.585
+\t (01:45:05) last pick:  5.080 45.720
+\i (01:45:08) setwindow form.plc_manual
+\i (01:45:08) FORM plc_manual tree 'MULTISEL YES' MTG125 'Mechanical symbols' 
+\i (01:45:09) setwindow pcb
+\i (01:45:09) pick grid 46.887 45.975
+\t (01:45:09) last pick:  45.720 45.720
+\i (01:45:11) setwindow form.plc_manual
+\i (01:45:11) FORM plc_manual tree 'MULTISEL YES' MTG125 'Mechanical symbols' 
+\i (01:45:12) setwindow pcb
+\i (01:45:12) pick grid 46.656 4.949
+\t (01:45:12) last pick:  45.720 5.080
+\i (01:45:13) setwindow form.plc_manual
+\i (01:45:13) FORM plc_manual tree 'MULTISEL YES' MTG125 'Mechanical symbols' 
+\i (01:45:15) setwindow pcb
+\i (01:45:15) pick grid 6.093 5.644
+\t (01:45:15) last pick:  5.080 5.080
+\i (01:45:15) prepopup -15.000 26.042
+\i (01:45:16) done 
+\i (01:45:16) generaledit 
+\i (01:45:17) zoom in 1 
+\i (01:45:17) setwindow pcb
+\i (01:45:17) zoom in 2.616 5.644
+\i (01:45:17) trapsize 579
+\i (01:45:17) zoom in 1 
+\i (01:45:17) setwindow pcb
+\i (01:45:17) zoom in 2.616 5.645
+\i (01:45:17) trapsize 290
+\i (01:45:17) zoom in 1 
+\i (01:45:17) setwindow pcb
+\i (01:45:17) zoom in 2.616 5.645
+\i (01:45:17) trapsize 145
+\i (01:45:17) zoom in 1 
+\i (01:45:17) setwindow pcb
+\i (01:45:17) zoom in 2.645 5.617
+\i (01:45:17) trapsize 72
+\i (01:45:17) zoom in 1 
+\i (01:45:17) setwindow pcb
+\i (01:45:17) zoom in 2.645 5.617
+\i (01:45:17) trapsize 36
+\i (01:45:17) zoom in 1 
+\i (01:45:17) setwindow pcb
+\i (01:45:17) zoom in 2.645 5.618
+\i (01:45:17) trapsize 18
+\i (01:45:17) zoom out 1 
+\i (01:45:17) setwindow pcb
+\i (01:45:17) zoom out 2.646 5.618
+\i (01:45:17) trapsize 36
+\i (01:45:17) zoom out 1 
+\i (01:45:17) setwindow pcb
+\i (01:45:17) zoom out 2.644 5.619
+\i (01:45:17) trapsize 72
+\i (01:45:17) zoom out 1 
+\i (01:45:17) setwindow pcb
+\i (01:45:17) zoom out 2.645 5.618
+\i (01:45:17) trapsize 145
+\i (01:45:43) zoom out 1 
+\i (01:45:43) setwindow pcb
+\i (01:45:43) zoom out 7.310 5.416
+\i (01:45:43) trapsize 290
+\i (01:45:43) zoom out 1 
+\i (01:45:43) setwindow pcb
+\i (01:45:43) zoom out 7.599 5.416
+\i (01:45:43) trapsize 579
+\i (01:45:43) zoom out 1 
+\i (01:45:43) setwindow pcb
+\i (01:45:43) zoom out 7.947 5.415
+\i (01:45:43) trapsize 1159
+\i (01:45:43) zoom out 1 
+\i (01:45:44) setwindow pcb
+\i (01:45:44) zoom out 42.020 5.416
+\i (01:45:44) trapsize 2318
+\i (01:45:45) zoom in 1 
+\i (01:45:45) setwindow pcb
+\i (01:45:45) zoom in 7.020 10.265
+\i (01:45:45) trapsize 1159
+\i (01:46:02) pick grid 80.265 33.212
+\t (01:46:02) last pick:  81.280 33.020
+\i (01:46:33) pick grid 77.715 60.332
+\t (01:46:33) last pick:  78.740 60.960
+\i (01:47:03) QtSignal CVPLayerGrid CVPBoxAllBottom clicked false
+\i (01:47:12) QtSignal CVPLayerGrid CVPBoxAllTop clicked false
+\i (01:47:13) QtSignal CVPLayerGrid CVPBoxAllBottom clicked true
+\i (01:47:30) QtSignal CVPLayerGrid CVPBoxAllTop clicked true
+\i (01:48:56) pick grid 92.781 49.438
+\t (01:48:56) last pick:  93.980 48.260
+\i (01:49:07) artwork 
+\i (01:49:08) FORM film_control general_parameters 
+\i (01:49:08) setwindow form.film_control
+\i (01:49:08) FORM film_control general_parameters  
+\i (01:49:08) setwindow pcb
+\i (01:49:08) trapsize 1159
+\i (01:49:11) setwindow form.film_control
+\i (01:49:11) FORM film_control film_control  
+\i (01:49:15) FORM film_control select_all  
+\i (01:49:23) FORM film_control create  
+\t (01:49:23) Checking db records
+\t (01:49:23)     checking for orphans...
+\t (01:49:23)     Checked 100 percent
+\t (01:49:23) Done dbdoctor.
+\t (01:49:23) Starting Create artwork films...
+\w (01:49:23) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (01:49:24) Artwork generated with warnings.
+\i (01:49:32) setwindow pcb
+\i (01:49:32) setwindow text
+\i (01:49:32) close
+\i (01:49:36) setwindow form.film_control
+\i (01:49:36) FORM film_control ok  
+\i (01:49:36) setwindow pcb
+\i (01:49:36) generaledit 
+\i (01:49:37) pick grid 91.391 31.590
+\t (01:49:37) last pick:  91.440 30.480
+\i (01:49:44) filemgr 
+\i (01:56:36) pick grid 84.901 59.868
+\t (01:56:36) last pick:  83.820 60.960
+\i (01:56:51) nctape_full 
+\w (01:56:52) WARNING(SPMHMF-272): NC Parameters file 'nc_param.txt' not found ... loading defaults.
+\i (01:57:09) setwindow form.nc_drill
+\i (01:57:09) FORM nc_drill repeat_codes NO 
+\i (01:57:10) FORM nc_drill execute  
+\t (01:57:10) Starting Generating NC Drill...
+\i (01:57:33) FORM nc_drill close  
+\i (01:57:33) setwindow pcb
+\i (01:57:33) generaledit 
+\i (01:57:36) pick grid 60.331 62.186
+\t (01:57:36) last pick:  60.960 60.960
+\i (01:57:36) prepopup 64.503 65.199
+\i (01:57:37) pick grid 7.715 68.908
+\t (01:57:37) last pick:  7.620 68.580
+\i (01:57:39) pick grid 73.311 -9.900
+\t (01:57:39) last pick:  73.660 -10.160
+\i (01:58:50) pick grid 73.311 34.835
+\t (01:58:50) last pick:  73.660 35.560
+\i (02:01:31) pick grid 79.106 47.815
+\t (02:01:31) last pick:  78.740 48.260
+\i (02:01:32) prepopup 79.338 60.563
+\i (02:01:33) trapsize 1930
+\i (02:01:37) pick grid 83.093 81.660
+\t (02:01:37) last pick:  83.820 81.280
+\i (02:01:39) pick grid 58.394 65.838
+\t (02:01:39) last pick:  58.420 66.040
+\i (02:01:43) exit 
+\e (02:01:43) Do you want to save the changes you made to HAHAHA.brd?
+\i (02:01:43) fillin no 
+   (02:01:43) Loading consmgr.cxt 
+   (02:01:43) Loading acns_formula.cxt 
+   (02:01:43) Loading signal.cxt 
+\t (02:01:44)     Journal end - Tue Jul 09 14:41:55 2019
